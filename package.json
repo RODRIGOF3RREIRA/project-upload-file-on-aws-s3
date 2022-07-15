@@ -4,5 +4,18 @@
   "main": "index.js",
   "repository": "https://github.com/RODRIGOF3RREIRA/project-upload-file-on-aws-s3.git",
   "author": "RODRIGOF3RREIRA <rodrigoferreira2799@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongose": "^0.0.2-security",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
