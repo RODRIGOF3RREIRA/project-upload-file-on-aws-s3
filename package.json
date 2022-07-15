@@ -1,0 +1,8 @@
+{
+  "name": "project-upload-file-on-aws-s3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RODRIGOF3RREIRA/project-upload-file-on-aws-s3.git",
+  "author": "RODRIGOF3RREIRA <rodrigoferreira2799@gmail.com>",
+  "license": "MIT"
+}
